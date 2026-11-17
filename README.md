@@ -40,6 +40,7 @@ Pastikan komputer Anda sudah terinstal compiler C (seperti GCC). Ikuti langkah-l
 Buka terminal pada direktori penyimpanan file kode sumber (`.c`), lalu jalankan perintah berikut:
 ```bash
 gcc -o kantin_kampus program.c
+
 '''
 <img>
 
