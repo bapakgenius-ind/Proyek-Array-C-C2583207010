@@ -41,7 +41,7 @@ Buka terminal pada direktori penyimpanan file kode sumber (`.c`), lalu jalankan 
 ```bash
 gcc -o kantin_kampus program.c
 
-'''
+```
 <img>
 
 ![Screenshot 2026-11-17 214810](https://github.com/user-attachments/assets/29887519-6f2b-4ec6-991f-b3eb045f39c6)
