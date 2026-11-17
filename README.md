@@ -38,7 +38,10 @@ Program ini memanfaatkan struktur data array satu dimensi dan dua dimensi untuk 
 
 Pastikan komputer Anda sudah terinstal compiler C (seperti GCC). Ikuti langkah-langkah berikut di terminal/command prompt:
 Buka terminal pada direktori penyimpanan file kode sumber (`.c`), lalu jalankan perintah berikut:
-```bash gcc -o kantin_kampus program.c
+```bash
+gcc -o kantin_kampus program.c
+'''
+<img>
 
 ![Screenshot 2026-11-17 214810](https://github.com/user-attachments/assets/29887519-6f2b-4ec6-991f-b3eb045f39c6)
 ![Screenshot 2026-11-17 214149](https://github.com/user-attachments/assets/d2aba33d-f794-4de9-8dbc-842774c7b2ab)
@@ -51,3 +54,4 @@ Buka terminal pada direktori penyimpanan file kode sumber (`.c`), lalu jalankan 
 ![Screenshot 2026-11-17 213529](https://github.com/user-attachments/assets/66d95119-7a35-4b6b-8840-bf0fb5065486)
 ![Screenshot 2026-11-17 213754](https://github.com/user-attachments/assets/08f41dd8-7ceb-44dc-9d2d-9862c186270f)
 ![Screenshot 2026-11-17 213813](https://github.com/user-attachments/assets/aa3ba723-ee5a-4aa8-8ec9-bea3ec0199c0)
+</img>
